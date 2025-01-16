@@ -1,0 +1,10 @@
+---
+title: "BIOSTAT 725 Homework 1"
+author: "Jonathan Hui"
+format: pdf
+---
+
+```{r}
+
+```
+
